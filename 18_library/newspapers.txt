@@ -1,0 +1,5 @@
+City Gazette,Urban News,1978
+World Observer,International Media Group,1988
+Sunset Bulletin,Evening Press,1978
+Todays news,Evening Press,1978
+Last week news,Evening Press,1988
